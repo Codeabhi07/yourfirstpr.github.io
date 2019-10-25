@@ -1,4 +1,4 @@
-![Header](README_header.png)
+![Header](Your_First_PR.png)
 
 ## Configuring and running locally
 
