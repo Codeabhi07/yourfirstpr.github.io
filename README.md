@@ -1,4 +1,4 @@
-![Header](Your_First_PR.png)
+![Header](YOUR FIRST PR.png)
 
 ## Configuring and running locally
 
